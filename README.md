@@ -1,5 +1,6 @@
 1. install conda env "conda env create -f whisper.yml"
 2. clone and install optimum
+
     git clone --recursive https://github.com/yufenglee/optimum
     cd optimum
     git checkout whisper_static_quant
